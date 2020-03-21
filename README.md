@@ -1,3 +1,3 @@
 # confession-App-PHP-7.2
 
-Demo : desa.hostkda.com/works/conf/
+Demo : http://desa.hostkda.com/works/conf/
